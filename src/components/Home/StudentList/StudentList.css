@@ -1,0 +1,24 @@
+.StudentList-main{
+  height: calc(100vh - 20vh);
+  width: 100%;
+  margin-top: 22vh;
+}
+.search{
+  width: 400px;
+}
+
+
+.card{
+  width: 200px;
+}
+
+.card-btn{
+  background-color: #00A056;
+}
+
+
+.card-student{
+  display: grid;
+  grid-template-columns: repeat(3,1fr);
+  grid-gap: 10px;
+}

@@ -1,0 +1,24 @@
+.header-btn{
+  background-color: #DDFFE7;
+  margin: 0 3px;
+  border-radius: 50px;
+  color: #00A056;
+  width: 150px;
+  font-weight: bold;
+  text-align: center;
+  padding: 10px 0px;
+}
+
+.nav-bg{
+  background-color: #00A056;
+  height: 20vh;
+}
+
+
+.btns{
+  display: flex ;
+  justify-content: space-evenly;
+  width: 100%;
+  list-style: none;
+
+}

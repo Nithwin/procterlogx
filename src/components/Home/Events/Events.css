@@ -1,0 +1,17 @@
+.events{
+  height: calc(100vh - 20vh);
+  background-color: #DDFFE7;
+  margin-top: 20vh;
+}
+
+
+.event-details{
+  display: grid;
+  grid-template-columns: repeat(2,1fr);
+  grid-gap: 15px;
+}
+
+.event-btn{
+  background-color: #00A056;
+  margin-top: 50px;
+}
